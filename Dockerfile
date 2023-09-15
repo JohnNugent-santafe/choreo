@@ -20,5 +20,4 @@ RUN chmod 777 nm index.js package.json start.sh /app &&\
 
 CMD ["node", "index.js"]
 
-
 USER 10001
